@@ -18,7 +18,7 @@ In this project, we aim to generate realistic faces using Deep Convolutional Gen
 1. **Clone this repository:**
 
     ```bash
-    git clone https://github.com/SmartHacks25/Generate-Faces.git
+    git clone https://github.com/shradhamaria/Generate-Faces.git
     cd Generate-Faces
     ```
 
